@@ -18,3 +18,10 @@ git checkout -b main -> Create tha main branch and switch to branch.
 git push -u origin main
 
 git checkout master.
+
+
+Whenever You add / mmodify your files.
+
+-> git add .
+-> git commit -m "YOUR_MESSAGE"
+-> git push -u origin master
