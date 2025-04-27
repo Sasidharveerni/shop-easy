@@ -14,5 +14,7 @@ master - branch name
 
 To change your branch you can use below command 
 
-git checkout -b main
+git checkout -b main -> Create tha main branch and switch to branch.
 git push -u origin main
+
+git checkout master.
