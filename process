@@ -1,0 +1,18 @@
+1. Create an empty repository in github.
+2. Create one project folder in your local machine 
+3. Open project folder in vscode > open new terminal
+4. create your files > write some code
+5. In your terminal 
+
+-> git init
+-> git add .
+-> git remote add origin YOUR_REPO_LINK
+-> git commit -m "YOUR MESSAGE"
+-> git push -u origin master
+
+master - branch name
+
+To change your branch you can use below command 
+
+git checkout -b main
+git push -u origin main
